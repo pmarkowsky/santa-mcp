@@ -35,4 +35,4 @@ client.
 
 ## Dependencies
 
-This depends on [https://mcpgolang.com/].
+This depends on [MCP Golang](https://mcpgolang.com/).
