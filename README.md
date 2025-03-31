@@ -4,6 +4,9 @@ A PoC MCP Server for [Santa](https://github.com/northpolesec/santa).
 
 ##  What is this?
 
+> [!CAUTION]
+> This is meant only as a demonstration and should not be considered production ready.
+
 This is a Proof of Concept [Model Context Procotol server](https://modelcontextprotocol.io/introduction) for [santactl](https://northpole.dev/binaries/santactl.html). 
 
 It allows you to connect and drive Santa via an LLM that implements an MCP
@@ -29,3 +32,7 @@ client.
  * santactl_version
 
 * Ask it questions about Santa e.g. `Why is Santa blocking osascript?`
+
+## Dependencies
+
+This depends on [https://mcpgolang.com/].
