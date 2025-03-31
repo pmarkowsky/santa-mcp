@@ -5,7 +5,7 @@ A PoC MCP Server for [Santa](https://github.com/northpolesec/santa).
 ##  What is this?
 
 > [!CAUTION]
-> This is meant only as a demonstration and should not be considered production ready.
+> This is intended solely as a demonstration and is not production-ready. It is not an officially supported product of North Pole Security.
 
 This is a Proof of Concept [Model Context Procotol server](https://modelcontextprotocol.io/introduction) for [santactl](https://northpole.dev/binaries/santactl.html). 
 
