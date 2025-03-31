@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "santa-mcp": {
+      "command": "/Users/peterm/bin/santa-mcp",
+      "args": []
+    }
+  }
+}
